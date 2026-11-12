@@ -18,7 +18,7 @@ NVIDIA hackathon, Santa Clara University
 
 Upload a long PDF such as a grant application or compliance form and get a structured summary, extracted fields, next steps, and a follow-up chat about the document. React + TypeScript frontend, FastAPI + Pydantic backend, NVIDIA NIM models.
 
-[Repo](https://github.com/RayHu64/DocuAssist-AI)
+[Live demo](https://rayhu64.github.io/DocuAssist-AI/) · [Repo](https://github.com/RayHu64/DocuAssist-AI)
 
 ### Federated learning with FedAvg
 Distributed Systems course, Santa Clara University
